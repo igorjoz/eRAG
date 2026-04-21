@@ -1,0 +1,40 @@
+Project Instructions
+Wymagania zaliczenia
+Overview
+This project aims to deepen your understanding of Recommender Systems through practical application and critical analysis of existing research. You will select a recent research paper, replicate its results, and explore potential improvements to the proposed models or algorithms.
+
+1. Identify a Research Paper
+Select a recent research paper in the field of Recommender Systems that is interesting to you and feasible for replication. The paper should provide access to the code (e.g., a GitHub repository) and/or datasets to facilitate replication. Consider the following top conferences for relevant research papers:
+
+https://dblp.org/db/conf/recsys/recsys2025.html
+https://dblp.org/db/conf/um/umap2025.html
+https://dblp.org/db/conf/aaai/aaai2025.html
+https://dblp.org/db/conf/ijcai/ijcai2025.html
+https://dblp.org/db/conf/icml/icml2025.html
+
+2. Replicate the Results
+Clone the repository and run the provided code to reproduce the results reported in the paper. Fix any bugs or compatibility issues in the code if needed. Document any deviations and possible reasons.
+
+3. Identify areas for improvement:
+At a minimum, all students must replicate the results on a new dataset using the same metrics as the original paper, plus additional metrics. You may also experiment with different data splitting techniques . Ambitious students should also propose and implement modifications to the model/algorithm.
+
+4. Checkpoint Meeting I: Present the Original Paper and Replication Results
+Prepare a 15 minute presentation covering:
+- what challenge does the paper address?
+- the proposed model, algorithm, or approach and how it works
+- replication results (a table comparing reported vs. replicated results)
+- your ideas for improvements
+- outline your planned contributions
+
+5. Develop and Implement Your Proposed Extensions and/or Improvements
+
+6. Checkpoint Meeting II: Final Presentation
+Prepare a 15 minute presentation covering:
+- Brief overview of the original paper
+- Implemented extensions and/or improvements
+- Experimental results
+- Challenges faced and lessons learned
+- Future work suggestions
+
+7. Research Paper Submission 
+Prepare a research paper documenting your work, including a link to your repository.
